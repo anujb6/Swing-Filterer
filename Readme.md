@@ -1,4 +1,4 @@
-Normal script written to pick stocks according to the setup
+scripts For picking stocks according to the setup
 library used: tradingview-ta
 Added filter contain
 1. stocks where the price crosses above the 20-day SMA but remains below the 50-day and 200-day SMAs.
